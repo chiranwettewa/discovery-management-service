@@ -13,4 +13,4 @@ eureka:
     fetch-registry: false
 logging:
   file:
-    name: D:/logs/discovery-management-service.log
+    name: E:/logs/discovery-management-service.log
