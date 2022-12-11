@@ -10,7 +10,6 @@ public class DiscoveryManagementServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DiscoveryManagementServiceApplication.class, args);
-
 	}
 
 }
